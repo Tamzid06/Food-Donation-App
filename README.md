@@ -16,6 +16,7 @@ this app also has an extra feature, a food ordering system. One can order food f
 
 
 [![Video]](https://youtu.be/D9vw9lWREAs)
+[![Video](https://img.youtube.com/vi/D9vw9lWREAs/0.jpg)](https://www.youtube.com/watch?v=D9vw9lWREAs)
 
 CLICK :point_up: Here is the demo of how the app works.
 
