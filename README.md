@@ -14,8 +14,6 @@ To donate food, one has to give the information about the food, donor name etc. 
 the database in order to find the donated food. By using this location and other provided informations, anyone can collect these donated food on their own.
 this app also has an extra feature, a food ordering system. One can order food from the given items,update and delete the orders. 
 
-
-[![Video]](https://youtu.be/D9vw9lWREAs)
 [![Video](https://img.youtube.com/vi/D9vw9lWREAs/0.jpg)](https://www.youtube.com/watch?v=D9vw9lWREAs)
 
 CLICK :point_up: Here is the demo of how the app works.
@@ -69,6 +67,14 @@ My Orders -
 Update Order - 
 
 <img src="https://github.com/Tamzid06/Food-Donation-App/blob/main/ScreenShots/12.jpeg" width="150" alt="12">
+
+**To run this project**
+1) Download the Zip file or clone the project
+2) Unzip the project folder
+3) open the project folder using Android Studio (2020.3.1 or later)
+4) Build the project
+5) Run to any android device or virtual device
+
 
 Special thanks to mr.nizam for his help to complete this project.
 
